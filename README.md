@@ -1,2 +1,2 @@
-# daisyui-exx
+# daisyui
 Created with CodeSandbox
